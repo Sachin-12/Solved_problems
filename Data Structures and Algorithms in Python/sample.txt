@@ -1,0 +1,3 @@
+Hi Sir/Madam. I am working in TCS for the past 2 years. I initial role was a Network Administrator where I was working on Aruba Networking products such as Access Points , Switches, Routers, Controllers , etc. 
+Later I moved to network automation part wherein I used my python skills to automate the network device configuration and backup for HPE and Aruba network devices. Soon I was very much interested in programming 
+and created a webpage to showcase the capabilities of my team using Python Django, HTML, CSS, JavaScript, Bootstrap and Sqlite database.
