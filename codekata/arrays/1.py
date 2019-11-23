@@ -40,8 +40,7 @@ def remove_duplicates(num,digits):
                 continue
             i=i+1
     except IndexError:
-        pass 
-    return len(a)           
+        return len(a)           
 
 digits = count_digits(num)
 num_arr(num,digits)
