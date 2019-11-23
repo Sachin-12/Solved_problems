@@ -1,4 +1,4 @@
-# Q.No 644
+# Q.No 644 // Successful output
 # You are given a number with duplicate digits your task is to remove the immediate duplicate digits and print the result
 # 
 # Input Description:
@@ -35,10 +35,9 @@ def remove_duplicates(num,digits):
         while(a[i+1]):
             if (a[i]==a[i+1]):
                 del(a[i])
-                if a[i]:
-                    del(a[i])
-                    i=1-1
-                    continue
+                del(a[i])
+                i=1-1
+                continue
             i=i+1
     except IndexError:
         pass 
